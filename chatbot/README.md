@@ -37,7 +37,8 @@ OBS: O chatbot presupõe que o cliente usa um celular. Nada foi feito para ser u
 3. **Instale as dependências**
   ```bash
   pip install -r requirements.txt
-4. **Crie um arquivo .env na raiz do projeto com o token do seu bot:**
+
+4. **Crie um arquivo .env na raiz do projeto com o token do seu bot**
   ```bash
   BOT_TOKEN=seu_token_aqui
 
